@@ -17,9 +17,8 @@ More and more interested in the programming, I decided to change domains in orde
 ### :small_blue_diamond: People first
 
 - I am a street rider :rocket:. Do bicycle and skateboard is my best way to practice sports and enjoy the landscape
-- Love others even if they have differences :heart:
+- Plants lovers. Like to exchange seeds and cutting with neighbours and friends :seedling:
 - Keep trying to be vegetarian for the planet :earth_africa:. Not an easy stuff
 
 :link: If you want to reach me, or view my full professionnal history, please use my linkedin -> [benoit-bst](https://www.linkedin.com/in/beno%C3%AEt-brisset-951a9013a/)
-
 
