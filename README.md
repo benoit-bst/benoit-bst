@@ -14,7 +14,7 @@ More and more interested in the programming, I decided to change domains in orde
 - Following my journey, I naturally turned to learning Rust which is the logical continuation of C++ for me.<br> I love the security arguments behind it and the performance aspect
 - I'm a real **Vim/Tmux** zealot. I fell in love for these tools. From now on, I can't do without it anymore :speak_no_evil:.<br> I know, it can be time consuming to set up a good enviroment but this is fun and usefull !
 
-### :small_blue_diamond: People first
+### :small_blue_diamond: Additional 
 
 - I am a street rider :rocket:. Do bicycle and skateboard is my best way to practice sports and enjoy the landscape
 - Plants lovers. Like to exchange seeds and cutting with neighbours and friends :seedling:
