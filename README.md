@@ -17,7 +17,7 @@ More and more interested in the programming, I decided to change domains in orde
 
 ### :small_blue_diamond: People first
 
-- I am a urban wave boarder :rocket:. Do bicycle and skateboard is the best way to avoid pollution and the spread of viruses
+- I am a street rider :rocket:. Do bicycle and skateboard is the best way to avoid pollution and the spread of viruses
 - Love others even if they have differences :heart:
 - Keep trying to be vegetarian for the planet :earth_africa:. Not an easy stuff
 
