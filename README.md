@@ -5,7 +5,7 @@ I'm **Benoît Brisset**, French native living in Paris.<br>Daddy of 2 adorables 
 ### :small_blue_diamond: In a few words
 Curious and passionate about IT since always, I started to practice this discipline in the world of Telecoms about ten years ago. I was working on high performance applications with low latency.
 I coded algorithms for different layers of OSI Model. It allowed me to discover **C++** as well as different optimization techniques (_SIMD, multi-threading, GPU Cuda, cache aligment, and so on_).<br>
-More and more interested in programming, I decided to take a new way in order to broaden my vision of computing. I put my algorithmic skills for _the route calculation_. It allowed me to get a foothold in the world of Rest APIs via the open source [Navitia](https://github.com/CanalTP/navitia) application and its eco-system. It is an application that I maintain for 3 years now.<br>
+More and more interested in programming, I decided to take a new way in order to broaden my vision of computing. I put my algorithmic skills to _the route calculation_. It allowed me to get a foothold in the world of Rest APIs via the open source [Navitia](https://github.com/CanalTP/navitia) application and its eco-system. It is an application that I maintain for 3 years now.<br>
 
 ### :small_blue_diamond: Computing philosophy
 
