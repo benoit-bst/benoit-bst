@@ -11,7 +11,7 @@ More and more interested in programming, I decided to take a new way in order to
 
 - I pratice the automation religion. If you can automate a process, do it with a good script
 - Open Source is a philosophy to which I fully adhere and support.<br> I daily scan new languages and libraries which practice this openness for backend applications
-- Following my journey, I naturally turned to learning Rust which is the logical continuation of C++ for me.<br> I love the security arguments behind it and the performance aspect
+- Following my journey, I naturally turned to learning Rust which is the logical next step of C++ for me.<br> I love the security arguments behind it and the performance aspect
 - I'm a real **Vim/Tmux** zealot. I fell in love for these tools. From now on, I can't do without it anymore :speak_no_evil:.<br> I know, it can be time consuming to set up a good enviroment but this is fun and usefull !
 
 ### :small_blue_diamond: Additional 
